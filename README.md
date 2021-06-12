@@ -8,7 +8,7 @@ Below mentioned graph depicts the corelation between number of Latent features a
 
 # Summary:
 
-1) There is very less data points (only 20 users) for testing.
+1) There is very less data points (only 20 users) for testing. This is not enough to conclude a trend.
 
 2) The accuracy of train data increases with number of latent features.
 
