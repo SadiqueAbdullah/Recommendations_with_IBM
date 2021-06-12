@@ -14,7 +14,7 @@ Below mentioned graph depicts the corelation between number of Latent features a
 
 3) The accuracy of test data decreases with increasing the number of latent features, could be due to less data points.
 
-4) Latent features close to 100 seems to be the critical point where rate of accuracy (slope) changes.
+4) Latent features close to 100 count seems to be the critical point where rate of accuracy (slope) changes.
 
 5) The accuracy may not be a good parameter to judge about the effectiveness of this recommender model due to typical dataset where only 20 user IDs are common between training and test dataset which is hardly 0.4% of the total unique users.
 
